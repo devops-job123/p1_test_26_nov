@@ -1,0 +1,13 @@
+# Local secrets / keys
+*.key
+*.pem
+secrets.yaml
+!sealed-secret.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
